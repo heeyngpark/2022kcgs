@@ -1,6 +1,6 @@
 # 2022kcgs
-DWG files used in this paper.
+DWG files used in the following paper.
 
 Cite as {put-link-after-publication}
 
-Contact : heeyoungpark@snu.ac.kr
+Author contact : heeyoungpark@snu.ac.kr 
